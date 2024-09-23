@@ -1,0 +1,65 @@
+# Important about Data Structure
+
+|Feature by Data Structure|Dictionary|Set|List|String|Tuple|
+|---|---|---|---|---|---|
+|**Definition**|Stores key:value pairs|An unordered collection of unique elements|A sequential, mutable collection of any data type|A sequential, immutable collection of textual data|A sequential, immutable collection of any data type|
+|**Representation**|{ 'a':[42], 'b':[23,6,1] }|{'^2', 'mc', ' equal', 'E'}|[ 'a','b', 3, 4 ]|“call me ishmael”|( 'commander','lambda')|
+|**How to create?**|x = {}, x = dict()|x = set()|x = [], x = list()|x = (), x = str()|x = (‘a’,’b’,), x=tuple()|
+|**Is structure mutable and allow duplicate elements?**|immutable keys but mutable and duplicate values|mutable but unique elements only|mutable and allows duplicate elements|immutable but allows duplicate elements|immutable but allows duplicate elements|
+|**Is the structure iterable?**|no, it is unordered and random|no, it is unordered and unique|yes, and with numeric index assignment|yes, but with a sequence of textual data|yes, and with numeric index assignment|
+
+# Glossary terms from course 1, module 2
+
+### Terms and definitions from Course 1, Module 2
+**Built-in functions:** Functions that exist within Python and can be called directly
+
+**Comments:** Notes to yourself and/or other programmers to make the purpose of the code clear
+
+**Data types:** Classes of data (e.g., string, int, float, Boolean, etc.), which include the properties and behaviors of instances of the data type (variables)
+
+**Explicit conversion:** This occurs when code is written to manually convert one data type to another using a data type conversion function
+
+**Expression:** A combination of numbers, symbols, or other values that produce a result when evaluated
+
+**Implicit conversion:** This occurs when the Python interpreter automatically converts one data type to another
+
+**Logical operators:** Operators used to combine or manipulate boolean values (True or False) to create complex conditions for decision-making. 
+
+**Parameter (argument):** A value passed into a function for use within the function, controlling the behavior of the CSV reader and writer
+
+**Refactoring:** When a code is updated to be more self-documenting and clarify the intent 
+
+**Return value:** This is the value or variable returned as the end result of a function <br>
+
+# Glossary terms from course 1, module 3
+### Terms and definitions from Course 1, Module 3
+**Break**: A way to exit out of a loop before the loop's condition is false
+
+**Control statements**: Programming constructs that direct the flow of execution of a program by allowing you to make decisions, repeat actions, or choose between different code paths based on specific conditions.
+
+**For loop**: This executes a block of code for a specified number of iterations or over a collection of items.
+
+**Infinite loop**: A sequence that is missing a method for exiting the loop, causing the loop to run forever
+
+**Iterators**: Variables that allow you to loop through a collection one item at a time
+
+**Loop**: A sequence that makes the computer do repetitive tasks 
+
+**Programming**: The process of writing a program to behave in different ways 
+
+**Pass**: A placeholder statement which is used when the syntax requires a statement, but you don't want to execute any code or command
+
+**Recursion**: The repeated application of the same procedure to a smaller problem
+
+**While loop**: This is used when a segment of code needs to execute repeatedly while a condition is true
+
+# Glossary terms from course 1, module 4
+### Terms and definitions from Course 1, Module 4
+
+**Dictionaries**: A data type used to organize elements into collections, taking the form of pairs of keys and values
+
+**List** comprehensions: Create new lists based on sequences or ranges
+
+**String**: A data type used to represent a piece of text. sequences of characters and are immutable
+
+**Tuples**: Sequences of elements of any type that are immutable, written parentheses instead of square brackets
